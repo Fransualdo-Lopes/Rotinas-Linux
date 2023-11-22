@@ -31,7 +31,7 @@ sudo mount /dev/sdXn /mnt/minha_particao
 ```
 Um exemplo:
 ```
-sudo  /mnt/sdb2 /mnt/sdb2
+sudo  /dev/sdb2 /mnt/sdb2
 ```
 Substitua /dev/sdb2 pelo identificador da sua partição (por exemplo, /dev/sda1). Verifique o resultado usando o comando lsblk novamente.
 
