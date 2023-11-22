@@ -43,7 +43,9 @@ echo "/dev/sdXn /mnt/minha_particao ext4 defaults 0 0" | sudo tee -a /etc/fstab
 ```
 Substitua /dev/sdXn pelo identificador da sua partição e /mnt/minha_particao pelo caminho do seu ponto de montagem.
 
-## Passo 5: Desmontar a Partição - extra (Caso queira desmontar a partição)
+## Passo 5: Desmontar a Partição - extra 
+Se precisar desmontar a partição, use o comando `umount`.
+
 ```
 sudo umount /mnt/minha_particao
 ```
