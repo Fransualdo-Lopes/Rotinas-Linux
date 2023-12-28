@@ -50,6 +50,6 @@ apos estes comandos sua máquina estará com o Python3 e pip3 instalados.
 /usr/local/bin/python3.12 -m pip install pandas
 
 ```
-Este tutorial considerou as versoes mais atuais do momento consulte o site oficial e 
+Este tutorial considerou as versoes mais atuais do momento (28/12/2023) consulte o site oficial e 
 adapte para a versão que você deseja, consultando o site oficial: https://www.python.org/downloads/
 
